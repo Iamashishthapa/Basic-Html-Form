@@ -1,0 +1,80 @@
+body{
+	background: url(images/background.JPG) no-repeat;
+	background-size: cover;
+}
+#he{ 
+	background-color: blue; 
+	color : white;
+	border-radius: 4px;
+}
+.box{
+	text-align:center;
+	margin:auto;
+	width:450px;
+	color:white;
+	background: url(images/indiv.JPG) no-repeat;
+	background-size: cover;
+	margin-top: 5%;
+	font-family: 'Century Gothic',sans-serif;
+	padding: 40px;
+	border-radius: 10px;
+}
+#sub
+{
+
+}
+.fel
+{
+	border-radius: 4px;
+}
+.but
+{
+	border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#second
+{
+	background-color: green;
+}
+#date1
+{
+	background-color: red;
+}
+button
+{
+	width : 144px;
+	border-color: green;
+	background-color: red;
+	border-radius: 4px;
+}
+button:hover
+{
+	background-color: green;
+	border-radius: 4px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#date
+{
+	margin-left: 700px;
+	margin-top: 200px;
+}
+#date1
+{
+	margin-left: 0px;
+	margin-top: 0px;
+}
